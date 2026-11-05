@@ -1,0 +1,20 @@
+Reverberator WAV — Licencia de uso (Freeware / EULA)
+Copyright (c) 2026-2027 Santiago Sierra (sierra.rar). Todos los derechos reservados.
+
+Se concede permiso gratuito, no exclusivo y revocable para descargar y usar
+esta aplicación compilada (binario) con fines personales o profesionales.
+
+No está permitido:
+- Redistribuir, vender, sublicenciar o publicar el binario o versiones modificadas
+  sin autorización escrita del autor.
+- Realizar ingeniería inversa, descompilar o desensamblar el software, salvo
+  cuando la ley aplicable lo permita expresamente.
+- Usar el nombre, marca o créditos del autor para respaldar productos derivados
+  sin autorización.
+
+El código fuente no se distribuye con este software.
+
+ESTE SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍAS DE NINGÚN TIPO,
+EXPRESAS O IMPLÍCITAS, INCLUYENDO, SIN LIMITACIÓN, COMERCIABILIDAD,
+IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO EL
+AUTOR SERÁ RESPONSABLE POR DAÑOS DERIVADOS DEL USO DEL SOFTWARE.
