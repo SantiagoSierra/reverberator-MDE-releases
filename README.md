@@ -32,3 +32,9 @@ Simplifica al máximo el uso de la reverberación en tiempo real para sesiones d
 
 ---
 
+<div align="center">
+
+[![Descargar Última Versión](https://img.shields.io/badge/📥%20Descargar%20Última%20Versión-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SantiagoSierra/reverberator-MDE-releases/releases/latest)
+
+</div>
+
