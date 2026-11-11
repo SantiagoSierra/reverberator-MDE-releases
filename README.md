@@ -44,5 +44,10 @@ Manejo rápido para un procesamiento rápido del sonido.
 
 <img width="990" height="580" alt="image" src="https://github.com/user-attachments/assets/2052ee8a-b657-4f1b-93f1-4f7dcc1c9920" />
 
+Variedad de efectos distintivos con diferentes intensidades. 
+
+<img width="986" height="762" alt="image" src="https://github.com/user-attachments/assets/c8b7dd49-a310-4ee5-ab41-99cf5ac263e9" />
+
+
 
 
