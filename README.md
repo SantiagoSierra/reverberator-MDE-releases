@@ -38,3 +38,11 @@ Simplifica al máximo el uso de la reverberación en tiempo real para sesiones d
 
 </div>
 
+<img width="1346" height="907" alt="image" src="https://github.com/user-attachments/assets/4b55e6ec-91f0-4f28-b20f-a573c1747599" />
+
+Manejo rápido para un procesamiento rápido del sonido.
+
+<img width="990" height="580" alt="image" src="https://github.com/user-attachments/assets/2052ee8a-b657-4f1b-93f1-4f7dcc1c9920" />
+
+
+
