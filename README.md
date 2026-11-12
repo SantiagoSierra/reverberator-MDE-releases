@@ -4,7 +4,7 @@
 
 > **Aplicación ligera para el procesamiento y control de reverberación en tiempo real.**
 
-Simplifica al máximo el uso de la reverberación en tiempo real para sesiones de canto improvisado, locuciones rápidas de video o instrumentos conectados a través de simuladores de cabina (CabSim en amplificadores).
+Simplifica al máximo el uso de la reverberación en tiempo real para sesiones de canto improvisado, locuciones rápidas de video o instrumentos conectados a través de simuladores de cabina (CabSim en amplificadores),  realiza sesiones rápidas y consigue un archivo .wav  para montar a cualquier DAWs.
 
 ---
 
