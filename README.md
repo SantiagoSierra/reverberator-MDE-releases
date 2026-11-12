@@ -1,6 +1,11 @@
 # Reverberator .Wav
 
-[![Última Versión](https://img.shields.io/github/v/release/SantiagoSierra/reverberator-MDE-releases?color=blue&label=Descargar%20%C3%9Altima%20Versi%C3%B3n)](https://github.com/SantiagoSierra/reverberator-MDE-releases/releases/latest)
+<div align="right">
+
+[![Descargar Última Versión](https://img.shields.io/badge/📥%20Descargar%20Última%20Versión-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SantiagoSierra/reverberator-MDE-releases/releases/latest)
+
+</div>
+
 
 > **Aplicación ligera para el procesamiento y control de reverberación en tiempo real.**
 
